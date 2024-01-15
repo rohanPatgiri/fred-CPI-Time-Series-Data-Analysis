@@ -5,4 +5,3 @@
 - Checked the time series data for stationarity.
 - Performed correlation analysis of CPI with the other economic indicators
 - Checked for Causality using Granger Causality tests. 
-- Prepared report about the findings from the analysis.
